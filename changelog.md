@@ -5,5 +5,6 @@ Allman notation
 Newest additions first
 
 Changelog:
-1.0 - Added changelog? What am I even doing with my life?
+1.2 - Added amazing mouseover text for good images. 
 1.1 - Added amazing face and good quote.
+1.0 - Added changelog? What am I even doing with my life?
