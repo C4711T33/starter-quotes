@@ -9,6 +9,6 @@
                 <a href="/welcome/show/{key}">
                         <img src="/pix/{who}.jpg" title="{who} plays {role}"/>
                 </a>
-                large-{who} plays large-{role}
+                large-{who} plays large-{role} and says, "{what}"
         </div>
 </div>
